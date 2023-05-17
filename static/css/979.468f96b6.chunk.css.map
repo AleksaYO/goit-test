@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/979.468f96b6.chunk.css","mappings":"AAAA,kBACE,YAAa,CACb,cACF","sources":["components/Main/Main.module.css"],"sourcesContent":[".list {\n  display: flex;\n  flex-wrap: wrap;\n}\n"],"names":[],"sourceRoot":""}
